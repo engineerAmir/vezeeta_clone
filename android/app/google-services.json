@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620744425186",
+    "project_id": "vezeeta-8fb5c",
+    "storage_bucket": "vezeeta-8fb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620744425186:android:a2017fab023150b4a768bb",
+        "android_client_info": {
+          "package_name": "com.example.vezeeta_mokup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xnfBMUZs-wk3KtaCJHKZqPKDtil-CUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
